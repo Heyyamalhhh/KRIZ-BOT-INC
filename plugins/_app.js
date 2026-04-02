@@ -72,7 +72,7 @@ Sparky({
         m
   }) => {
       await m.reply(lang.RESTARTING);
-      exec("pm2 restart X-BOT-MD", async (error, stdout, stderr) => {
+      exec("pm2 restart KRIZ-BOT-INC", async (error, stdout, stderr) => {
       if (error) {
             return await m.reply(`Error: ${error}`);
       } 

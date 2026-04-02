@@ -1,4 +1,4 @@
-# X BOT MD 3.6.0
+# KRIZ BOT INC 1.0.0
 
 ## Join for updates 
 <p align="center">
@@ -11,7 +11,7 @@
 
 1. Must Fork This Repo Before Deployment !
    <br> 
-<a href="https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X--BOT--MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/AnanthKriz/KRIZ-BOT-INC/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 
@@ -21,12 +21,12 @@
    <br>
    
 **Server 1**  
-<a href='https://x-bot-md-qr.koyeb.app' target="_blank">
+<a href='https://KRIZ-BOT-INC-qr.koyeb.app' target="_blank">
     <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
 **Server 2**  
-<a href='https://x-bot-md-qr.koyeb.app' target="_blank">
+<a href='https://KRIZ-BOT-INC-qr.koyeb.app' target="_blank">
     <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
@@ -57,7 +57,7 @@
 
 4. Now Deploy
     <br>
-<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X--BOT--MD&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=&env[WORK_TYPE]=public&env[HANDLERS]=.&env[BOT_INFO]=X-BOT-MD;ASWIN%20SPARKY;https://i.imgur.com/QH7T7u9.jpeg&env[SUDO]=917012984396&env[STICKER_DATA]=SPARKY&env[DATABASE_URL]&env[KOYEB_SERVICE_NAME]=xbotmd&env[KOYEB_API_KEY]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
+<a href='https://app.koyeb.com/services/deploy?type=git&repository=github.com/A-S-W-I-N-S-P-A-R-K-Y/X--BOT--MD&branch=main&name=xbotmd&builder=dockerfile&env[SESSION_ID]=&env[WORK_TYPE]=public&env[HANDLERS]=.&env[BOT_INFO]=KRIZ-BOT-INC;ASWIN%20SPARKY;https://i.imgur.com/QH7T7u9.jpeg&env[SUDO]=917012984396&env[STICKER_DATA]=SPARKY&env[DATABASE_URL]&env[KOYEB_SERVICE_NAME]=xbotmd&env[KOYEB_API_KEY]' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb'/></a>
 
 #### DEPLOY TO RENDER 
 
@@ -75,13 +75,7 @@
 <a href='https://dashboard.render.com/web/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
 
 
-#### Thanks To
+### Thanks To 
+#### Aswin Sparky
 
-<details close>
-<summary>Read More</summary>
-
-<br>
-Beta tester & Debug
-
-* [`THEJUS`](https://github.com/jarviss4334)
- </details>
+[Bot Base](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X--BOT--MD)

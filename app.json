@@ -1,7 +1,7 @@
 {
-  "name": "X-BOT-MD",
+  "name": "KRIZ-BOT-INC",
   "version": "3.5.5",
-  "description": "X-BOT-MD – A Simple and Powerful WhatsApp Bot",
+  "description": "KRIZ-BOT-INC – A Simple and Powerful WhatsApp Bot",
   "logo": "https://i.imgur.com/Q2UNwXR.jpg",
   "repository": "https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X--BOT--MD",
   "stack": "container",
@@ -36,7 +36,7 @@
     "BOT_INFO": {
       "description": "Customize bot menu information (Format: BotName;OwnerName;ImageURL).",
       "required": false,
-      "value": "X-BOT-MD;ASWIN SPARKY;https://url.aswinsparky.qzz.io/sparky.jpg"
+      "value": "KRIZ-BOT-INC;ASWIN SPARKY;https://url.aswinsparky.qzz.io/sparky.jpg"
     },
     "ALWAYS_ONLINE": {
       "description": "Set to 'true' to keep bot always online, or 'false' to stay offline until a message is received.",
