@@ -35,7 +35,7 @@ Sparky(
 );
 
 Sparky({
-    name: "sparky",
+    name: "kriz",
     fromMe: isPublic,
     category: "misc",
     desc: "AI chat with memory"
@@ -43,7 +43,7 @@ Sparky({
 async ({ m, args }) => {
     if(!config.GROQ_API_KEY) return m.reply("_Please provide a grok api key_");
     args = args || m.quoted?.text;
-    if (!args) return m.reply("_Hi this is Sparky Your Ai. Assistant How can i help you?_");
+    if (!args) return m.reply("_Hi this is Kriz Your Ai. Assistant How can i help you?_");
 
     try {
         const chatId = m.jid;
@@ -57,7 +57,7 @@ async ({ m, args }) => {
         const messages = [
             {
                 role: "system",
-                content: "You are Sparky, a helpful WhatsApp AI assistant."
+                content: "You are Kriz, a helpful WhatsApp AI assistant."
             },
             ...history,
             { role: "user", content: args }
