@@ -43,7 +43,7 @@ async ({
         if (!args) {
             return await m.reply("_Example : .pair 917012984396_");
         }
-        const pair = await getJson(`https://x-bot-md-qr.koyeb.app/code?number=${args}`);
+        const pair = await getJson(`https://kriz-bot-inc-pair.koyeb.app/code?number=${args}`);
         if (!pair || !pair.code) {
             return await m.reply("Failed to retrieve pairing code. Please check the phone number and try again.");
         }
