@@ -80,7 +80,7 @@ const data = await getJson('https://api.github.com/repos/A-S-W-I-N-S-P-A-R-K-Y/X
 🔸 *Stars:* ${data.stargazers_count}
 🔸 *Forks:* ${data.forks_count}
 🔸 *GitHub Link:* 
-https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X--BOT--MD
+https://github.com/AnanthKriz/KRIZ-BOT-INC
 
 Hey ${m.pushName}!, Don't forget to star and fork my repository!`;
 
@@ -105,7 +105,7 @@ const data = await getJson('https://api.github.com/repos/A-S-W-I-N-S-P-A-R-K-Y/X
 🔸 *Stars:* ${data.stargazers_count}
 🔸 *Forks:* ${data.forks_count}
 🔸 *GitHub Link:* 
-https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X--BOT--MD
+https://github.com/AnanthKriz/KRIZ-BOT-INC
 
 Hey ${m.pushName}!, Don't forget to star and fork my repository!`;
 
