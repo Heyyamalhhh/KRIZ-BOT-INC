@@ -100,7 +100,7 @@ Sparky({
 async ({
     m, client, args
 }) => {
-const data = await getJson('https://api.github.com/repos/A-S-W-I-N-S-P-A-R-K-Y/X--BOT--MD');
+const data = await getJson('https://github.com/AnanthKriz/KRIZ-BOT-INC.git');
         const repoInfo = `
     _*💻 BOT REPOSITORY*_
         
