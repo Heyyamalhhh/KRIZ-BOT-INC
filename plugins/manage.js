@@ -41,20 +41,23 @@ async ({
 }) => {
     try {
         if (!args) {
-            return await m.reply("_Example : .pair 919847192542_");
+            return await m.reply("_Example : .pair 917012984396_");
         }
-        const pair = await getJson(`https://kriz-bot-inc-pair.koyeb.app/code?number=${args}`);
+        const pair = await getJson(`https://kriz-bot-inc-pair.koyeb.app/pairing?number=${args}`);
         if (!pair || !pair.code) {
             return await m.reply("Failed to retrieve pairing code. Please check the phone number and try again.");
         }
         const pairingCode = pair.code;
-        await m.reply(`*PAIR CODE : ${pairingCode}*\n\n How to Link: 
+        await m.reply(`*PAIR CODE : ${pairingCode}*\n\n*How to Link:* 
 1. Open WhatsApp on your phone.
 2. Go to Settings > Linked Devices.
 3. Tap Link a Device then Link with Phone.
 4. Enter the pair code above.
 5. Alternatively, tap the WhatsApp notification sent to your phone.
-\n⏳ *Code expires in 2 minutes!*`);
+
+*Web Pairing:* https://kriz-bot-inc-pair.koyeb.app/
+
+⏳ *Code expires in 2 minutes!*`);
         await m.reply(`${pairingCode}`);
     } catch (error) {
         console.error(error);
